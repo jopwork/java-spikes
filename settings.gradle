@@ -1,2 +1,3 @@
 rootProject.name = 'java-spikes'
+include 'com.jopwork.iso15022'
 

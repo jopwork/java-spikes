@@ -1,3 +1,5 @@
+package com.jopwork.javaspikes;
+
 import org.junit.Test;
 
 import java.util.ArrayList;
